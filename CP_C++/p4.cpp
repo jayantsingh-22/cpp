@@ -1,3 +1,4 @@
+//Google code jam'22 qualification round Q2-3D Printing.
 #include<iostream>
 using namespace std;
 int i,j,t,temp;

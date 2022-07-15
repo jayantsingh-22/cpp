@@ -1,3 +1,4 @@
+//Google code jam'22 qualification round Q1-Punched cards.
 #include<iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+//Codechef april long cook Q6.
 #include<iostream>
 using namespace std;
 long long gcd(long long m, long long n)
