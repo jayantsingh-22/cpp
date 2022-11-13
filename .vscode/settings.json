@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "C_Cpp_Runner.cCompilerPath": "/usr/bin/core_perl/gcc",
   "C_Cpp_Runner.cppCompilerPath": "/usr/bin/core_perl/g++",
   "C_Cpp_Runner.cStandard": "",
@@ -27,4 +28,7 @@
     "**/.vscode/**"
   ],
   "clangd.detectExtensionConflicts": false
+=======
+    "C_Cpp.errorSquiggles": "Disabled"
+>>>>>>> origin/main
 }
